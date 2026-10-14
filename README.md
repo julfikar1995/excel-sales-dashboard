@@ -50,7 +50,9 @@ Global Superstore sales data (`superstore_2016.xlsx`) with 3 sheets:
 - Labelled the Canada rows that have no matching region in People as **"Unassigned (Canada)"**
 - Created calculated columns: `Year`, `Quarter`, `Month Number`, `Month`, `Year-Month`, `Ship Days`, `Profit Status`, `Discount Band`
 
+
 ![Power Query Steps](screenshots/03_power_query_steps.png)
+
 ![Query Dependencies](screenshots/04_query_dependencies.png)
 
 ### 2. Data Model and DAX Measures
