@@ -109,7 +109,7 @@ Global Superstore sales data (`superstore_2016.xlsx`) with 3 sheets:
 
 ## Repository Structure
 ```
-excel-superstore-sales-dashboard/
+excel-sales-dashboard/
 |-- Superstore_Sales_Dashboard.xlsx    # Final interactive dashboard
 |-- README.md
 |-- data/
